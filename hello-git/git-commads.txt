@@ -1,0 +1,12 @@
+1. git config- To set user name and thier email address which is used while commiting any file. 
+2. git init -To initialize local git repository.
+3. git status - To check whether the files are commited or not.
+4. git add<file name> -To add file.
+5. git commit -m "message" -To commit changes.
+6. git log -To show commit history for a repository.
+7. git hist -To see history.
+8. git diff -To see the changes before and after commiting file.
+9. git remote -To connect a local repository with a remote repository.
+10. git clone -To create a local working copy of an existing remote repository.
+11. git push -To send local commits to the remote repository.
+12. git rm -To remove files and directories form the working index.
